@@ -1,11 +1,13 @@
-Libmatrix:  an ANSI C-library which implements full and sparse matrices
- as structures of pointer arrays
+# Libmatrix
+
+  An ANSI C-library which implements full and sparse matrices as structures of pointer arrays
 
 Made by Frank Everdij, Delft University of Technology
 
-Version 1.0: First release in linear FEM code.
-        1.1: Added GPL License and several bugfixes and enhancements
-        1.2: removed a superfluous memmove in Matrealloc for INTEGER Matrices
+Version
+* 1.0: First release in linear FEM code.
+* 1.1: Added GPL License and several bugfixes and enhancements
+* 1.2: removed a superfluous memmove in Matrealloc for INTEGER Matrices
 
 For use and Copyright notices, please see the COPYRIGHT file.
 
