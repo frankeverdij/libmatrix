@@ -1,0 +1,23 @@
+Libmatrix: an ANSI C-library which implements full and sparse matrices
+ as structures of pointer arrays
+
+Copyright (C) 27-03-2014 Frank Everdij
+Delft University of Technology
+email: F.P.X.Everdij@tudelft.nl
+
+Based on the matrix block idea by Ted Jensen's feb 2002 post:
+ "A Tutorial on Pointers and Arrays in C"
+see: http://home.netcom.com/~tjensen/ptr/cpoint.htm
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see <http://www.gnu.org/licenses/>.
